@@ -128,3 +128,82 @@ body, html{
     margin-right: 10px;
 
 }
+.notice-board{
+    margin-left: 10px;
+    margin-right: 10p;
+    background: #fff;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.notice-board-list{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+}
+.notice-board-list li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.our-principal{
+    margin-left: 10px;
+    margin-right: 10p;
+    background: #fff;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.useful-info-ul{
+    list-style: none;
+}
+.useful-info-ul li{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 15px;
+}
+.useful-info-ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.gallery-head-style{
+    font-size: 2px;
+    color: #4b4848;
+    margin-bottom: 5px;
+    background: white;
+    padding: 0px;
+}
+.width-25{
+    width: 5%;
+    float: left;
+}
+.gallery-img{
+    height: 25px;
+    width: auto;
+}
+.footer{
+    background: #232f3e;
+    padding: 50px 0px;
+}
+.quicklink-heading{
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.quicklink-menu{
+    list-style: none;
+    padding-left: 10px;
+}
+.quicklink-menu li a{
+    color: #fff;
+    line-height: 2.5;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.imageGrid {
+    width: 300px;
+    height: auto;
+}
