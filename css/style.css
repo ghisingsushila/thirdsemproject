@@ -7,11 +7,11 @@ body, html{
     background: #f0f3fa;
 }
 .width-100{
-    width: 100;
+    width: 100%;
     float: left;
 }
 .container{
-    width: 1500px;
+    width: 100%;
     margin: 0px auto;
 }
 .top-header{
@@ -25,6 +25,11 @@ body, html{
     padding: 6px;
     font-size: 20px;
 }
+
+.container > h3 {
+    font-size: 2em;
+}
+
 .headquote{
     font-size: 18px;
     color: #fff;
@@ -206,4 +211,17 @@ body, html{
 .imageGrid {
     width: 300px;
     height: auto;
+}
+
+.footer {
+    display: flex;
+    width: 100%;
+}
+
+.footer > div {
+    width: 25% ;
+}
+
+.width-25 {
+    width: 25%;
 }
